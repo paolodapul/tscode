@@ -1,0 +1,46 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.cursorBlinking": "solid",
+  "editor.fontFamily": "'Zed Mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 12,
+  "editor.lineHeight": 21,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "extensions.ignoreRecommendations": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.mergeEditor": false,
+  "gitlens.blame.avatars": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.currentLine.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.fontFamily": "Zed Mono",
+  "terminal.integrated.fontSize": 11.5,
+  "terminal.integrated.lineHeight": 1.1,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.panel.defaultLocation": "right",
+  "workbench.startupEditor": "none",
+  "yaml.format.enable": true,
+  "terraform.format": {
+    "enable": true
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "docker.showExplorer": true,
+  "window.zoomLevel": 1,
+  "[css, html, javascript, json, jsonc, typescript, typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

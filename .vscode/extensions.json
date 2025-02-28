@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "alefragnani.project-manager",
+    "christian-kohler.path-intellisense",
+    "usernamehw.errorlens",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "GraphQL.vscode-graphql-syntax",
+    "eamodio.gitlens",
+    "redhat.vscode-yaml",
+    "Tim-Koehler.helm-intellisense",
+    "ms-azuretools.vscode-docker",
+    "4ops.terraform",
+    "ms-vscode-remote.remote-containers",
+    "Prisma.prisma"
+  ]
+}
