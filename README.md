@@ -1,6 +1,6 @@
 # TSCode
 
-### Visual Studio Code configuration for full-stack TypeScript development.
+## Visual Studio Code
 
 ### Extensions
 
@@ -36,7 +36,11 @@
 - **[Terraform](https://marketplace.visualstudio.com/items?itemName=4ops.terraform)** – Lightweight Terraform syntax highlighting.
 - **[DevContainers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)** – Enables working inside Docker-based development environments.
 
-### Font
+## Utility
+
+- **[Insomnia](https://insomnia.rest/)** - API test runner
+
+## Font
 
 My preferred fontface is [Zed Mono](https://github.com/zed-industries/zed-fonts).
 
